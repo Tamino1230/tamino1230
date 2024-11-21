@@ -8,13 +8,17 @@ And im trying to make my life and others easier with tools and more fun with gam
 💻 Im programming in Python, C# (hopefully soon)
 And also in HTML and CSS
 
-🌟In my free time im playing Videogames, Reading, Drawing and watching ANIME
+🌟 In my free time im playing Videogames, Reading, Drawing and watching ANIME
 
 📫 Feel free to reach out to me on Discord, Twitter or any of my socials:
   - Discord: @tamino1230
   - Twitter/X: [@NukeTamino](https://x.com/NukeTamino)
   - TikTok: [@IhrPookie](https://www.tiktok.com/@ihrpookie)
   - Github: [@Tamino1230](https://github.com/Tamino1230)
+
+## Current Projects
+- [HotkeyEZ](https://github.com/Tamino1230/HotKeyEz)
+- [MainInstallerDebugger](https://github.com/Tamino1230/mainDebuggerInstaller)
 
 ## 🔥Current stats
 
