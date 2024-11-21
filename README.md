@@ -1,7 +1,7 @@
 # 👋 Hi there
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamino1230&color=blue)
 
-##💻 About me <3
+## 💻 About me <3
 Im **Tamino1230** (Tamino) and im a learning developer Student from Austria.
 And im trying to make my life and others easier with tools and more fun with games :)
 
