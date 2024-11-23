@@ -19,6 +19,7 @@ And also in HTML and CSS
 ## Current Projects
 - [HotkeyEZ](https://github.com/Tamino1230/HotKeyEz)
 - [MainInstallerDebugger](https://github.com/Tamino1230/mainDebuggerInstaller)
+- [MusiEz](https://github.com/Tamino1230/musiez)
 
 ## 🔥Current stats
 
