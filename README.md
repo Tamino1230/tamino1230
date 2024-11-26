@@ -15,6 +15,7 @@ And also in HTML and CSS
   - Twitter/X: [@NukeTamino](https://x.com/NukeTamino)
   - TikTok: [@IhrPookie](https://www.tiktok.com/@ihrpookie)
   - Github: [@Tamino1230](https://github.com/Tamino1230)
+  - etc on my discord account
 
 ## Current Projects
 - [HotkeyEZ](https://github.com/Tamino1230/HotKeyEz)
