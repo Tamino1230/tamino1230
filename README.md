@@ -17,9 +17,14 @@ And also in HTML and CSS
   - Github: [@Tamino1230](https://github.com/Tamino1230)
   - etc on my discord account
 
+## Custom Orders
+- I take special or normal Orders
+- You can contact me on Discord!
+- Payment: Low/Medium
+
 ## Current Projects
 - [HotkeyEZ](https://github.com/Tamino1230/HotKeyEz)
-- [MainInstallerDebugger](https://github.com/Tamino1230/mainDebuggerInstaller)
+- [CustomRPC](https://github.com/Tamino1230/CustomRPC)
 - [MusiEz](https://github.com/Tamino1230/musiez)
 
 ## 🔥Current stats
