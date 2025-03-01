@@ -23,9 +23,8 @@ And also in HTML and CSS
 - Payment: Low/Medium
 
 ## Current Projects
-- [HotkeyEZ](https://github.com/Tamino1230/HotKeyEz)
+- [Website Template](https://github.com/Tamino1230/template_article_website)
 - [CustomRPC](https://github.com/Tamino1230/CustomRPC)
-- [MusiEz](https://github.com/Tamino1230/musiez)
 
 ## 🔥Current stats
 
