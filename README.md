@@ -1,5 +1,5 @@
 # 👋 Hi there
-![Profile Views](https://komarev.com/ghpvc/?username=Tamino1230&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Tamino1230&color=green)
 
 ## 💻 About me <3
 Im **Tamino1230** (Tamino) and im a learning developer Student from Austria.
@@ -22,6 +22,7 @@ And also in HTML, CSS, JavaScript
 - Payment: Low/Medium
 
 ## Current Projects
+- [LocalHDS](https://github.com/Tamino1230/localHDS)
 - [Website Template](https://github.com/Tamino1230/template_article_website)
 - [CustomRPC](https://github.com/Tamino1230/CustomRPC)
 
