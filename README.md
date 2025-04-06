@@ -1,32 +1,94 @@
-# 👋 Hi there
-![Profile Views](https://komarev.com/ghpvc/?username=Tamino1230&color=green)
+<br clear="both">
 
-## 💻 About me <3
-Im **Tamino1230** (Tamino) and im a learning developer Student from Austria.
-And im trying to make my life and others easier with tools and more fun with games :)
+<div align="center">
+  <a href="https://github.com/Tamino1230">
+    <img src="https://komarev.com/ghpvc/?username=Tamino1230&color=green" alt="Profile Views" />
+  </a>
+</div>
 
-💻 Im programming in Python, Java, JavaScript, C# (hopefully soon)
-And also in HTML, CSS, JavaScript
+<h1 align="center">👋 Hi, I'm Tamino1230</h1>
 
-🌟 In my free time im playing Videogames, Reading, Drawing and watching Anime
+<div align="center">
+  <p>🚀 Developer Student from Austria · 🎮 Gamer · 🎨 Hobby (bad) Artist</p>
+</div>
 
-📫 Feel free to reach out to me on Discord, Twitter or any of my socials:
-  - Discord: @tamino1230
-  - Twitter/X: [@NukeTamino](https://x.com/NukeTamino)
-  - Github: [@Tamino1230](https://github.com/Tamino1230)
-  - etc on my discord account
+###
 
-## Custom Orders
-- I take special or normal Orders
-- You can contact me on Discord!
-- Payment: Low/Medium
+<div align="center">
+  <a href="https://x.com/NukeTamino" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1da1f2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://discord.com/users/702893526303637604" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://github.com/Tamino1230" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-## Current Projects
-- [LocalHDS](https://github.com/Tamino1230/localHDS)
-- [Website Template](https://github.com/Tamino1230/template_article_website)
-- [CustomRPC](https://github.com/Tamino1230/CustomRPC)
+---
 
-## 🔥Current stats
+### 💻 About Me
 
-![Tamino1230's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamino1230&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamino1230&layout=compact&theme=radical)
+- 🧠 I'm currently learning **Java**, **Python**, **JavaScript**, and soon **C#**
+- 🌐 I also build stuff with **HTML**, **CSS**, and **JS**
+- 🎯 My goal is to create helpful tools and fun games
+- 🎮 In my free time: I play video games, read, draw, and watch anime
+
+---
+
+### 🧰 Languages and Tools
+
+#### Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</div>
+
+#### GameEngines
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40">
+  
+  
+</div>
+
+#### Developement
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</div>
+
+---
+
+### 🛒 Custom Orders
+
+- 💬 You can message me on Discord for special or normal orders
+- 💰 Payment: Low / Medium pricing
+
+---
+
+### 🚧 Last Projects
+
+- 🧩 [LocalHDS](https://github.com/Tamino1230/localHDS) – Local Hosting Dev Support Tool
+- 🌐 [Website Template](https://github.com/Tamino1230/template_article_website) – Article-style website
+- 🕹️ [CustomRPC](https://github.com/Tamino1230/CustomRPC) – Custom Discord Rich Presence Tool
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamino1230&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamino1230&layout=compact&theme=radical" height="150" />
+</div>
