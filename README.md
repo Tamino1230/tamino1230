@@ -5,7 +5,7 @@
 Im **Tamino1230** (Tamino) and im a learning developer Student from Austria.
 And im trying to make my life and others easier with tools and more fun with games :)
 
-💻 Im programming in Python, JavaScript, C# (hopefully soon)
+💻 Im programming in Python, Java, JavaScript, C# (hopefully soon)
 And also in HTML, CSS, JavaScript
 
 🌟 In my free time im playing Videogames, Reading, Drawing and watching Anime
