@@ -30,7 +30,7 @@
 
 ### 💻 About Me
 
-- 🧠 I'm currently learning **Java**, **Python**, **JavaScript**, and soon **C#**
+- 🧠 I'm currently working in **Java**, **Python**, **JavaScript**, and **C#**
 - 🌐 I also build stuff with **HTML**, **CSS**, and **JS**
 - 🎯 My goal is to create helpful tools and fun games
 - 🎮 In my free time: I play video games, read, draw, and watch anime
