@@ -82,13 +82,11 @@
 - 🧩 [LocalHDS](https://github.com/Tamino1230/localHDS) – Local Hosting Dev Support Tool
 - 🌐 [Website Template](https://github.com/Tamino1230/template_article_website) – Article-style website
 - 🕹️ [CustomRPC](https://github.com/Tamino1230/CustomRPC) – Custom Discord Rich Presence Tool
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <iframe width="600" height="150" src="https://ionicabizau.github.io/github-profile-languages/api.html?@tamino1230" frameborder="0"></iframe>
   <img src="https://github-readme-stats.vercel.app/api?username=Tamino1230&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamino1230&layout=compact&theme=radical" height="150" />
 </div>
