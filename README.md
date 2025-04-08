@@ -79,8 +79,8 @@
 
 ### 🚧 Last Projects
 
+- 🌐 [Package getweb](https://github.com/Tamino1230/Package_getweb) – A Module for Websites (for using bs4 and requests easier)
 - 🧩 [LocalHDS](https://github.com/Tamino1230/localHDS) – Local Hosting Dev Support Tool
-- 🌐 [Website Template](https://github.com/Tamino1230/template_article_website) – Article-style website
 - 🕹️ [CustomRPC](https://github.com/Tamino1230/CustomRPC) – Custom Discord Rich Presence Tool
 ---
 
