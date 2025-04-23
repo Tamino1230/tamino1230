@@ -38,12 +38,6 @@
 
 ---
 
-### My biggest Project
-
-- [babTomaMusic](https://github.com/Tamino1230/babTomaMusic) is a Python-based desktop music application by Tamino1230. It provides an easy-to-use interface for managing playlists, downloading songs, and integrating with Discord Rich Presence. The application also includes features like hotkeys, sleep timers, and song information retrieval.
-
----
-
 ### 🧰 Languages and Tools
 
 #### Languages
