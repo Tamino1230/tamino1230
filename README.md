@@ -72,15 +72,6 @@
 
 ---
 
-### 🚧 Last Projects
-
-- 🕹️ [bTM Wrapped](https://github.com/Tamino1230/bTM-Wrapped) – A "Spotify Wrapped" for bTM (babTomaMusic)
-- 🧩 [Tami-s-Anti-pay-Vol.at-Chrome-Extension](https://github.com/Tamino1230/Tami-s-Anti-pay-Vol.at-Chrome-Extension) – A Extension to Read all Articles for free (Educational Purpose)
-- 🌐 [Package getweb](https://github.com/Tamino1230/Package_getweb) – A Module for Websites (for using bs4 and requests easier)
-(Not updated)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
