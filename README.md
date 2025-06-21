@@ -17,13 +17,40 @@
 
 <div align="center">
   <a href="https://x.com/NukeTamino" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1da1f2&logoColor=white&style=for-the-badge" height="25" />
+      <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1da1f2&logoColor=white&style=for-the-badge" alt="Twitter/X">
   </a>
   <a href="https://discord.com/users/702893526303637604" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&style=for-the-badge" height="25" />
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&style=for-the-badge" alt="Discord">
   </a>
   <a href="https://github.com/Tamino1230" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&style=for-the-badge" height="25" />
+      <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="https://tamino1230.github.io/webhook/">
+      <img src="https://img.shields.io/static/v1?message=Webhook&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Webhook Site">
+  </a>
+  <a href="https://tamino1230.github.io/me/">
+      <img src="https://img.shields.io/static/v1?message=Me&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Me">
+  </a>
+  <a href="https://tamino1230.github.io/playground/">
+      <img src="https://img.shields.io/static/v1?message=Playground&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Playground">
+  </a>
+  <a href="https://tamino1230.github.io/blog/">
+      <img src="https://img.shields.io/static/v1?message=Blog&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Blog">
+  </a>
+  <a href="https://tamino1230.github.io/discord-bot/">
+      <img src="https://img.shields.io/static/v1?message=Discord-Bot&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+  </a>
+  <a href="https://tamino1230.github.io/unicode-ai/">
+      <img src="https://img.shields.io/static/v1?message=Unicode-AI&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+  </a>
+  <a href="https://tamino1230.github.io/canvert/">
+      <img src="https://img.shields.io/static/v1?message=CanVert&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+  </a>
+  <a href="https://tamino1230.github.io/wdym-button-game/">
+      <img src="https://img.shields.io/static/v1?message=WdymButton&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+  </a>
+  <a href="https://tamino1230.github.io/run-tomato-game/">
+      <img src="https://img.shields.io/static/v1?message=Run-Tomato&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
   </a>
 </div>
 
