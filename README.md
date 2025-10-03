@@ -52,14 +52,17 @@
   <a href="https://tamino1230.github.io/run-tomato-game/">
       <img src="https://img.shields.io/static/v1?message=Run-Tomato&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
   </a>
+  <a href="https://tamino1230.github.io/steam-web/">
+      <img src="https://img.shields.io/static/v1?message=Steam Web&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+  </a>
 </div>
 
 ---
 
 ### 💻 About Me
 
-- 🧠 I'm currently working in **Python**, **JavaScript**, and (little C# (unity), (very) Java), **C++**, **Lua** (learning) and i have more on my list: Ruby, Go, etc.
-- 🌐 I also build stuff with **HTML**, **CSS**, and **JS**
+- 🧠 I'm currently working in **Python**, and (trying to learn C++ also would like to learn C#)
+- 🌐 I also build stuff with **HTML**, **CSS**, and **JS**, i attempted Java, Lua and more but only very little
 - 🎯 My goal is to create helpful tools and fun games
 - 🎮 In my free time: I play video games, read, draw, and watch anime
 
@@ -82,7 +85,7 @@
 #### GameEngines
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40">
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40"> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender">
 </div>
 
