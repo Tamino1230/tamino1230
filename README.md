@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/static/v1?message=Run-Tomato&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
   </a>
   <a href="https://tamino1230.github.io/steam-web/">
-      <img src="https://img.shields.io/static/v1?message=Steam Web&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
+      <img src="https://img.shields.io/static/v1?message=Steam-Web&logo=webhook&label=&color=blue&logoColor=white&style=for-the-badge" alt="Discord Bot Website">
   </a>
 </div>
 
