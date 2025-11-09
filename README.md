@@ -12,7 +12,7 @@
     <h4>Portfolio Website and Stuff: <a href="https://tamino1230.me" target="_blank">Tamino1230.me</a></h4>
 </div>
 
-I build projects with Python, web technologies and creative tools. This file is a static README representation of my portfolio site - it contains no JavaScript and is fully static (suitable for GitHub README use).
+I build projects with Python, web technologies and creative tools. This file is a static README representation of my portfolio site - it contains no JavaScript and is fully static.
 
 Last updated: **2025-11-09**
 
