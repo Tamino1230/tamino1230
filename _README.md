@@ -16,13 +16,13 @@
 ###
 
 <div align="center">
-  <a href="https://x.com/NukeTamino" target="_blank">
+  <a href="https://twitter.tamino1230.me" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1da1f2&logoColor=white&style=for-the-badge" alt="Twitter/X">
   </a>
-  <a href="https://discord.com/users/702893526303637604" target="_blank">
+  <a href="https://user.tamino1230.me" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&style=for-the-badge" alt="Discord">
   </a>
-  <a href="https://github.com/Tamino1230" target="_blank">
+  <a href="https://github.tamino1230.me" target="_blank">
       <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
   <a href="https://tamino1230.github.io/webhook/">
