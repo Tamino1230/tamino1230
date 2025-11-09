@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<h1 align="center">Tamino1230 - Developer & Student</h1>
+<h1 align="center" id="intro">Tamino1230 - Developer & Student</h1>
 
 <div align="center">
     <h3>Hi, I’m Tamino - a 16‑year‑old student & developer from Austria.</h3>
