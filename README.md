@@ -22,8 +22,9 @@ Last updated: **2025-11-09**
 - [Home](#intro)
 - [About](#about)
 - [Demo](https://tamino1230.me/#demo)
-- [Projects](#projects)
-- [Contact](#contact)
+- [Projects](#selected-projects)
+- [Contact](#contact-and-socials)
+- [GitHub Stats](#github-stats)
 
 
 ## About
@@ -58,7 +59,7 @@ Skills and experience - concise and factual.
 See all projects listed in [Projects Repo](https://github.com/Tamino1230/projects)
 
 
-## Contact & Socials
+## Contact and Socials
 
 - GitHub: [Tamino1230](http://github.tamino1230.me)
 - Twitter / X: [NukeTamino](http://twitter.tamino1230.me)
